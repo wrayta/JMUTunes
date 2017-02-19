@@ -1,4 +1,5 @@
 # JMUTunes
+## Team: Thomas Wray & Joe Cumins
 A digital audio player written in Java. This was a Programming Assignment (PA) for my Advanced Programming course that lasted the entire semester with revised modifications and implementation details. It was made graphical as per the requirements of the final PA.
 
 - Import .wav and .mp3 files into your JMUTunes music library
